@@ -1,6 +1,6 @@
 # Discrete Logarithm Solver (BabyStepGiantStep)
-* This tool aims to solve discrete logarithm problems using the BabyStepGiantStep Alogorithm found by Daniel Shanks.
-* It is best to use with a prime modulus that is near a power of 2 (p)
+This tool aims to solve discrete logarithm problems using the BabyStepGiantStep Alogorithm found by Daniel Shanks.
+It is best to use with a prime modulus that is near a power of 2 (p)
 
 ## CommandLine Arguments:
 Define the Console Parameters according to the equation that should be solved e.g.:  
